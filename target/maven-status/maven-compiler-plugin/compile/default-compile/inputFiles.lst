@@ -1,0 +1,12 @@
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/PhotoAppApiUsersApplication.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/model/LoginRequestModel.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/data/UsersRepository.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/shared/UserDTO.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/model/CreateUserRequestModel.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/security/AuthenticationFilter.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/security/WebSecurity.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/data/UserEntity.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/controller/UsersController.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/service/UsersServiceImpl.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/model/CreateUserResponseModel.java
+/Users/jisadmj/udemy/PhotoAppApiUsers/src/main/java/com/example/udemy_spring_boot_microservices/photoapp/api/users/PhotoAppApiUsers/service/UsersService.java
